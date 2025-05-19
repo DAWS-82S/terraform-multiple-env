@@ -23,3 +23,7 @@ variable "common_tags" {
         Terraform = "true"
     }
 }
+
+variable "profile" {
+    
+}
